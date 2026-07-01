@@ -1,5 +1,4 @@
 # DEMOEBS
-@ -0,0 +1,80 @@
 ## AWS EBS Volume Hands-On Lab
 
 
