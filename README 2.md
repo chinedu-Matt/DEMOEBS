@@ -1,5 +1,6 @@
 ## AWS EBS Volume Hands-On Lab
 
+A practical, task-based lab covering Amazon Elastic Block Store (EBS) from beginner to advanced concepts. The lab is AWS Console-first, with Linux terminal commands used only where the operating system must format, mount, and persist the attached volume.
 
 ---
 
